@@ -1,6 +1,6 @@
-# PA Test Pack
+# PAD Test Case Generator
 
-**PA Test Case Generator** turns a Blue Prism 7.3 release package (`.bprelease`) into an Excel test
+**PAD Test Case Generator** turns a Blue Prism 7.3 release package (`.bprelease`) into an Excel test
 script in the client test template (Instructions, Test Cases and Defects sheets). Testers use the
 script in SIT and UAT of the process's migration to Power Automate.
 
@@ -60,8 +60,10 @@ done by code.
 
 ## Licence
 
-Proprietary: free to download and use, unmodified. It may not be redistributed or modified. See
-`LICENSE` in each release.
+Proprietary: free to download and use, unmodified. It may not be redistributed or modified. The
+exception is configuration: you may copy and edit `ai_services.json` to use your own AI services,
+and copy `.env.example` to local `.env` files that hold your own API keys. See `LICENSE` in each
+release.
 
 ## Issues
 

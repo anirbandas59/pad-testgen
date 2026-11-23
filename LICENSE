@@ -1,18 +1,25 @@
 Copyright (c) 2026 Anirban Das. All rights reserved.
 
-PA Test Case Generator (the "Software") is proprietary. It is not open source.
+PAD Test Case Generator (the "Software") is proprietary. It is not open source.
 
 Permission is granted, free of charge, to any person who obtains a released copy of the Software
 from its official releases (the CLI or UI edition) to install and use it, unmodified, for any lawful
 purpose, including for commercial work.
 
+You may also copy the two configuration templates that come with the Software, `ai_services.json`
+and `.env.example`, and edit your copies to configure your own installation: in `ai_services.json`,
+to add, change or remove the AI services and models you use; from `.env.example`, to create local
+`.env` files that hold your own API keys. Your edited copies are yours to keep and use with the
+Software.
+
 No other permission is granted. In particular, you may not, in whole or in part, without prior
 written permission from the copyright holder:
 
-  - copy the Software, except as needed to install and use it as permitted above, or to keep a
-    backup copy;
-  - modify, adapt, translate, decompile or create derivative works of the Software, except to the
-    extent that applicable law expressly permits this despite this restriction;
+  - copy the Software, except as needed to install and use it, or to configure it, as permitted
+    above, or to keep a backup copy;
+  - modify, adapt, translate, decompile or create derivative works of the Software, except the
+    configuration templates as permitted above, or to the extent that applicable law expressly
+    permits this despite this restriction;
   - distribute, publish, sublicense, sell, rent, lease or otherwise make the Software available to
     any third party, including as a hosted or managed service.
 
