@@ -1,0 +1,26 @@
+Copyright (c) 2026 Anirban Das. All rights reserved.
+
+PA Test Case Generator (the "Software") is proprietary. It is not open source.
+
+Permission is granted, free of charge, to any person who obtains a released copy of the Software
+from its official releases (the CLI or UI edition) to install and use it, unmodified, for any lawful
+purpose, including for commercial work.
+
+No other permission is granted. In particular, you may not, in whole or in part, without prior
+written permission from the copyright holder:
+
+  - copy the Software, except as needed to install and use it as permitted above, or to keep a
+    backup copy;
+  - modify, adapt, translate, decompile or create derivative works of the Software, except to the
+    extent that applicable law expressly permits this despite this restriction;
+  - distribute, publish, sublicense, sell, rent, lease or otherwise make the Software available to
+    any third party, including as a hosted or managed service.
+
+The test scripts and other output the Software produces from your own input are yours. This
+licence does not claim them.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
